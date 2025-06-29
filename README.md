@@ -6,9 +6,7 @@ Welcome to my personal developer portfolio — a modern, responsive web app buil
 
 ## 🌐 Live Demo
 
-🔗 [Visit the Portfolio](https://your-username.github.io/portfolio) _(replace with your actual link)_
-
----
+## 🔗 [Visit the Portfolio] **Will be added soon**
 
 ## 📁 Project Structure
 
@@ -34,26 +32,25 @@ src/
 
 ## 🔦 Features
 
-- Fully responsive layout (mobile-first)
+- Fully responsive layout
 - Clean and minimalistic design
 - Custom animated buttons and transitions
 - Downloadable CV
 - Mobile navigation with bottom navbar
 - Section-based navigation (Home, About, Projects, Skills, Contact)
-- Light mode by default (dark mode removed for simplicity)
 
 ---
 
 ## 📸 Preview
 
-_(Include screenshots of your home page, mobile view, and navbar here)_
+\_ Screenshots will be available once the site is live
 
 ---
 
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/afkarahamed/my-portfolio.git
 cd portfolio
 npm install
 npm run dev
