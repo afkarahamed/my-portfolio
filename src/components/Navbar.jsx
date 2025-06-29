@@ -1,4 +1,3 @@
-// src/components/Navbar.jsx
 import React from 'react';
 import { Typewriter } from 'react-simple-typewriter';
 import { FileText, Github } from 'lucide-react';

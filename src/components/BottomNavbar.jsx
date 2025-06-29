@@ -1,4 +1,3 @@
-// src/components/BottomNavbar.jsx
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { Code2, User, FolderKanban, BadgeHelp, Mail } from 'lucide-react';
