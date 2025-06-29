@@ -1,12 +1,15 @@
-function Home() {
+import React from 'react';
+import HtmlCssWebsite from '../components/ProjectCards/HtmlCssWebsite';
+
+const Projects = () => {
   return (
-    <div className="p-8 text-center">
-      <h1 className="text-4xl font-bold">Welcome to My Portfolio</h1>
-      <div className="min-h-screen flex items-center justify-center text-white bg-[#0f172a]">
-        <h2 className="text-3xl font-bold">Projects Page (coming soon...)</h2>
+    <div className="min-h-screen bg-gradient-to-br from-[#0f172a] to-[#1e293b] px-4 py-16 text-white">
+      <h1 className="text-3xl md:text-4xl font-bold mb-10 text-center">Projects</h1>
+      <div className="grid place-items-center">
+        <HtmlCssWebsite />
       </div>
     </div>
   );
-}
+};
 
-export default Home;
+export default Projects;
