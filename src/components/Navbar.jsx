@@ -6,9 +6,10 @@ const Navbar = () => {
   return (
     <div className="fixed top-0 left-0 w-full h-16 z-50 bg-[#0f172a] flex justify-between items-center px-4 md:px-10">
       <div className="text-green-400 font-mono text-base md:text-2xl">
-        <span className="mr-2">{'<>'}</span>
+        <span className="mr-2">{'</>'}</span>
         <Typewriter
-          words={window.innerWidth < 768 ? ['@afkarahamed'] : ['@afkarahamed', 'Software Developer']}
+          // words={window.innerWidth < 768 ? ['@afkarahamed'] : ['@afkarahamed', 'Software Developer']}
+          words = {['@afkarahamed', 'Developer']}
           loop={0}
           cursor
           cursorStyle="|"
