@@ -3,7 +3,7 @@ import { Typewriter } from 'react-simple-typewriter';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import profileImg from '../assets/profile.jpeg';
-import resumePDF from '../assets/resume.pdf'; 
+import resumePDF from '../assets/Afkar-Ahamed_resume.pdf'; 
 
 const Home = () => {
   return (
