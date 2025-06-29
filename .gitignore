@@ -27,6 +27,3 @@ dist-ssr
 .DS_Store
 .env
 
-src/assets/resume.pdf
-src/assets/profile.jpeg
-
