@@ -31,7 +31,7 @@ const Home = () => {
               'Quick Learner ⚡',
               'Tech Enthusiast 💡',
               'Problem Solver 🔧',
-              'Full-Stack Explorer 🧭',
+              'Full-Stack Developer 🧭',
             ]}
             loop={0}
             cursor
