@@ -34,8 +34,7 @@ const About = () => {
             <li>Inducted to Deans list on multiple semesters.</li>
           </ul>
         </section>
-
-        {/* Section: Experience */}
+        
         <section className="space-y-4">
           <h2 className="text-2xl font-semibold text-indigo-300">Experience</h2>
           <ul className="text-gray-300 text-base md:text-lg list-disc list-inside">
@@ -45,7 +44,6 @@ const About = () => {
           </ul>
         </section>
 
-        {/* Section: Hobbies */}
         <section className="space-y-4">
           <h2 className="text-2xl font-semibold text-indigo-300">Hobbies</h2>
           <p className="text-gray-300 text-base md:text-lg">

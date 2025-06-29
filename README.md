@@ -67,7 +67,3 @@ This project is open source and free to use.
 💡 Contributions and Feedback
 
 Feedback is welcome! Feel free to fork, improve, or open an issue.
-
-```
-
-```
