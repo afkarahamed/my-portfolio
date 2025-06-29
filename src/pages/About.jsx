@@ -19,13 +19,14 @@ const About = () => {
           <h2 className="text-2xl font-semibold text-indigo-300">Introduction</h2>
           <p className="text-gray-300 text-base md:text-lg">
             Hey there! I'm Afkar Ahamed.
+          </p>
         </section>
 
         {/* Section: Education */}
         <section className="space-y-4">
           <h2 className="text-2xl font-semibold text-indigo-300">Education</h2>
           <ul className="text-gray-300 text-base md:text-lg list-disc list-inside">
-            <li>Need implementation</li>
+            <li>need implementation</li>
             <li>need implementation</li>
           </ul>
         </section>
