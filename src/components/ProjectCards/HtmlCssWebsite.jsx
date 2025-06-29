@@ -2,8 +2,8 @@ import React from 'react';
 
 const HtmlCssWebsite = () => {
   return (
-    <div className="bg-white text-black shadow-lg rounded-xl overflow-hidden max-w-md mx-auto hover:shadow-xl transition duration-300">
-      <div className="aspect-video bg-black">
+<div className="flex flex-col justify-between bg-[#0f172a] border border-blue-500 rounded-lg shadow-md p-6 h-[540px] w-full">
+   <div className="aspect-video bg-black">
         <iframe
           src="https://www.moshified.com/"
           title="HTML/CSS Project"
@@ -12,7 +12,7 @@ const HtmlCssWebsite = () => {
       </div>
       <div className="p-4">
         <h2 className="text-xl font-semibold mb-2">Responsive HTML/CSS Website</h2>
-        <p className="text-sm text-gray-700 mb-4">
+      <p className="text-gray-300 text-sm mb-4">
           A fully responsive website built using pure HTML and CSS following professional design principles. This was a code along project done as a part of Mosh Hamedani's HTML & CSS course.
         </p>
         <div className="flex gap-4">
