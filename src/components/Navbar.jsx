@@ -31,7 +31,7 @@ const Navbar = () => {
 
         
         <a
-          href="https://github.com/YOUR_USERNAME/YOUR_REPO"
+          href="https://github.com/afkarahamed/my-portfolio"
           target="_blank"
           rel="noopener noreferrer"
           className="relative group bg-gray-200 hover:bg-gray-300 text-black p-2 rounded-md shadow hover:shadow-md transition"
