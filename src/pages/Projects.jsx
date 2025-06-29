@@ -4,8 +4,8 @@ import V3dBLas from "../components/ProjectCards/V3dBLas";
 
 const Projects = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[#0f172a] to-[#1e293b] px-4 py-16 text-white">
-      <div className="text-center mb-12">
+<div className="flex flex-col md:flex-row gap-6 flex-wrap justify-center">
+        <div className="text-center mb-12">
         <h2 className="text-4xl font-extrabold text-white tracking-tight">
           PROJECTS
         </h2>
@@ -13,8 +13,8 @@ const Projects = () => {
           Some of the projects I have worked on.
         </p>
       </div>
-      <div className="grid md:grid-cols-2 gap-6 max-w-6xl mx-auto">
-        <HtmlCssWebsite />
+<div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto px-4">
+          <HtmlCssWebsite />
         <V3dBLas />
       </div>
     </div>

@@ -2,8 +2,7 @@ import React from 'react';
 
 const HtmlCssWebsite = () => {
   return (
-<div className="flex flex-col justify-between bg-[#0f172a] border border-blue-500 rounded-lg shadow-md p-6 h-[540px] w-full">
-   <div className="aspect-video bg-black">
+<div className="bg-[#0f172a] border border-blue-500 rounded-lg shadow-md p-6 flex flex-col justify-between h-[500px] overflow-y-auto">   <div className="aspect-video bg-black">
         <iframe
           src="https://www.moshified.com/"
           title="HTML/CSS Project"

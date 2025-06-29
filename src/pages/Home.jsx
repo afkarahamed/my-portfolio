@@ -43,11 +43,13 @@ const Home = () => {
         </h2>
 
         <p className="text-lg md:text-xl text-gray-300 mb-4 max-w-xl">
-          A passionate Software Developer transitioning from C to full-stack web.
+          A C developer turned full-stack engineer. Now trying to blend
+          low-level precision with high-level creativity to build modern and scalable web applications.
         </p>
 
         <p className="text-sm text-gray-400 max-w-md">
-          I build fast, interactive, and elegant web experiences with a love for clean code and performance.
+          I build clean and responsive frontends along with efficient, scalable backends.
+          I can turn ideas into user-friendly web applications.
         </p>
 
         <div className="mt-6 flex flex-col sm:flex-row sm:space-x-4 space-y-4 sm:space-y-0 w-full max-w-xs sm:max-w-none justify-center">

@@ -2,8 +2,7 @@ import React from "react";
 
 const V3dBLas = () => {
   return (
-    <div className="flex flex-col justify-between bg-[#0f172a] border border-blue-500 rounded-lg shadow-md p-6 h-[540px] w-full">
-      <h2 className="text-white text-xl font-bold mb-2">v3dBLas: GPU-Accelerated Inference on Raspberry Pi</h2>
+<div className="bg-[#0f172a] border border-blue-500 rounded-lg shadow-md p-6 flex flex-col justify-between h-[500px] overflow-y-auto">      <h2 className="text-white text-xl font-bold mb-2">v3dBLas: GPU-Accelerated Inference on Raspberry Pi</h2>
       <p className="text-gray-300 text-sm mb-4">
         Developed a lightweight inference framework on Raspberry Pi using <span className="text-blue-400 font-semibold">V3DLib</span> to integrate GPU for tensor computations.
         And Benchmarked custom <span className="text-blue-400 font-semibold">C-based GPU kernels</span> against equivalent CPU implementations. Demonstrated how GPU outperforms CPU on larger tensors.
