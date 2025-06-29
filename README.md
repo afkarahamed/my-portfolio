@@ -54,17 +54,20 @@ git clone https://github.com/afkarahamed/my-portfolio.git
 cd portfolio
 npm install
 npm run dev
+```
 
 🛡️ License
 
 This project is open source and free to use.
 
 🤝 Connect with Me
-	•	📧 afkar.net11@gmail.com.com
-	•	💼 LinkedIn https://www.linkedin.com/in/afkar-ahamed/
-
+• 📧 afkar.net11@gmail.com.com
+• 💼 LinkedIn https://www.linkedin.com/in/afkar-ahamed/
 
 💡 Contributions and Feedback
 
 Feedback is welcome! Feel free to fork, improve, or open an issue.
+
+```
+
 ```
