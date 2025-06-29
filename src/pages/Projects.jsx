@@ -4,7 +4,7 @@ import V3dBLas from "../components/ProjectCards/V3dBLas";
 
 const Projects = () => {
   return (
-<div className="flex flex-col md:flex-row gap-6 flex-wrap justify-center">
+    <div className="flex flex-col md:flex-row gap-6 flex-wrap justify-center">
         <div className="text-center mb-12">
         <h2 className="text-4xl font-extrabold text-white tracking-tight">
           PROJECTS
@@ -13,8 +13,8 @@ const Projects = () => {
           Some of the projects I have worked on.
         </p>
       </div>
-<div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-6xl mx-auto px-4">
-          <HtmlCssWebsite />
+      <div className="grid md:grid-cols-2 gap-6 w-full max-w-7xl mx-auto px-4 xl:px-0">   
+        <HtmlCssWebsite />
         <V3dBLas />
       </div>
     </div>
