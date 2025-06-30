@@ -61,8 +61,8 @@ npm run dev
 This project is open source and free to use.
 
 🤝 Connect with Me
-• 📧 afkar.net11@gmail.com.com
-• 💼 LinkedIn https://www.linkedin.com/in/afkar-ahamed/
+📧 afkar.net11@gmail.com.com
+💼 LinkedIn https://www.linkedin.com/in/afkar-ahamed/
 
 💡 Contributions and Feedback
 
