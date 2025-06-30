@@ -21,7 +21,7 @@ const Navbar = () => {
 
       <div className="flex items-center gap-4">
         <a
-          href="/src/assets/resume.pdf"
+          href="/src/assets/Afkar-Ahamed_resume.pdf"
           download
           className="bg-green-500 hover:bg-green-600 text-black font-bold px-4 py-2 rounded-md text-sm md:text-base flex items-center gap-2 shadow hover:shadow-md transition"
         >
