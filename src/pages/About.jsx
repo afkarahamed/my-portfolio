@@ -47,7 +47,7 @@ const About = () => {
         <section className="space-y-4">
           <h2 className="text-2xl font-semibold text-indigo-300">Hobbies</h2>
           <p className="text-gray-300 text-base md:text-lg">
-           When I am not coding, its highly likely that you will find me working on that punching bad (MMA enthusiast here) or exploring the outdoors.
+           When I am not coding, its highly likely that you will find me working on that punching bag (MMA enthusiast here) or exploring the outdoors.
            I also enjoy learning about history the battles our ancestors had to go through. And occasionally you might find me lost 
            in a good youtube rabbit hole. 
           </p>

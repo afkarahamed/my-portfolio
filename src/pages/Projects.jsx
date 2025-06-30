@@ -1,6 +1,7 @@
 import React from 'react';
 import HtmlCssWebsite from '../components/ProjectCards/HtmlCssWebsite';
 import V3dBLas from "../components/ProjectCards/V3dBLas";
+import TaskManager from "../components/ProjectCards/TaskManager";
 
 const Projects = () => {
   return (
@@ -16,6 +17,7 @@ const Projects = () => {
       <div className="grid md:grid-cols-2 gap-6 w-full max-w-7xl mx-auto px-4 xl:px-0">   
         <HtmlCssWebsite />
         <V3dBLas />
+        <TaskManager />
       </div>
     </div>
   );
