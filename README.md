@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio — a modern, responsive web app buil
 
 ## 🌐 Live Demo
 
-## 🔗 [Visit the Portfolio] **Will be added soon**
+https://afkar-ahamed-portfolio.vercel.app
 
 ## 📁 Project Structure
 
@@ -38,14 +38,6 @@ src/
 - Downloadable CV
 - Mobile navigation with bottom navbar
 - Section-based navigation (Home, About, Projects, Skills, Contact)
-
----
-
-## 📸 Preview
-
-\_ Screenshots will be available once the site is live
-
----
 
 ## 📦 Getting Started
 
